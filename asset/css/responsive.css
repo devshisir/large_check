@@ -1,0 +1,1010 @@
+@media (min-width: 1400px) and (max-width: 5000px) {
+    #banar_area{
+        height: 780px;
+    }
+    
+}
+
+
+/* XL (laptop) Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    
+}
+@media (min-width: 1200px) and (max-width: 1300px) {
+   
+}
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+    #enroldCourse .enroldCourseTitle h4:before {
+        width: 39%;
+    }
+    #enroldCourse .enroldCourseTitle h4:after {
+        width: 39%;
+    }
+    #recomendCourses .recomendCoursesTitle h4:before {
+        width: 37%;
+    }
+    #recomendCourses .recomendCoursesTitle h4:after {
+        width: 37%;
+    }
+    #recomendCourses .recomendCoursesMain .recomendCoursesItem .bottom .bottom_left a {
+        width: 200px;
+        margin-right: 20px;
+    }
+    #home3WhySchool .home3WhySchoolMain .home3WhySchoolMainItem video#home3Video[poster] {
+        height: 179px;
+    }
+    #accountSettings form .acountProfile label {
+        right: 51px;
+    }
+    #header2 .header2User .header2UserContainer {
+        width: 137%;
+        left: -69px;
+    }
+    .header2Menu {
+        position: relative;
+        top: 5px;
+    }
+    #header2 .header2Menu ul .active a:after {
+        bottom: -8px;
+    }
+    #myClassMain .myClassMainContainer .myClassMainItem {
+        padding-left: 20px;
+    }
+    div#overviewBottomFixContent1 {
+        padding-left: 100px;
+    }
+    #assignmentPopup .assignmentPopupContainer #assignmentPopupClose {
+        right: 139px;
+    }
+    #assignmentPopup .assignmentPopupContainer .assignmentPopupContainerContentInput {
+        width: 610px;
+    }
+
+#assignUpload {
+    padding-bottom: 150px;
+}
+}
+
+
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    #enroldCourse .enroldCourseMain .enroldCourseMainItem .top {
+        padding-left: 20px;
+    }
+    #enroldCourse .enroldCourseMain .enroldCourseMainItem .bottom {
+        padding-left: 20px;
+    }
+    #enroldCourse .enroldCourseMain .enroldCourseMainItem .bottom .bottom_right a {
+        display: block;
+        width: 85%;
+    }
+    #recomendCourses .recomendCoursesMain .recomendCoursesItem .top {
+        padding-left: 20px;
+    }
+    #recomendCourses .recomendCoursesMain .recomendCoursesItem .bottom {
+        padding-left: 20px;
+    }
+    #recomendCourses .recomendCoursesMain .recomendCoursesItem .bottom .bottom_left a {
+        width: 160px;
+        margin-right: 7px;
+        margin-bottom: 21px;
+    }
+    #enroldCourse .enroldCourseTitle h4:after {
+        width: 36%;
+    }
+    #enroldCourse .enroldCourseTitle h4:before {
+        width: 36%;
+    }
+    #recomendCourses .recomendCoursesTitle h4:after {
+        width: 33%;
+    }
+    #recomendCourses .recomendCoursesTitle h4:before {
+        width: 33%;
+    }
+    #home3WhySchool .home3WhySchoolMain .home3WhySchoolMainItem video#home3Video {
+        margin-top: 4px;
+    }
+    #home3WhySchool .home3WhySchoolMain .home3WhySchoolMainItem video#home3Video[poster] {
+        height: 130px;
+    }
+    #home3WhySchool .home3WhySchoolMain .home3WhySchoolMainItem .videoPlay img {
+        height: 52px;
+    }
+    #assignmentPopup .assignmentPopupContainer #assignmentPopupClose {
+       right: 56px;
+    }
+    #assignmentPopup .assignmentPopupContainer .assignmentPopupContainerContentInput {
+        width: 570px;
+    }
+    #assignUpload {
+        padding-bottom: 150px;
+    }
+    #header2 .header2Menu ul li {
+        margin: 0px 31px;
+    }
+    #header2 .header2User .header2UserContainer {
+        width: 123%;
+        left: -34px;
+    }
+    .header2Menu {
+        position: relative;
+        top: 5px;
+    }
+    #header2 .header2Menu ul .active a:after {
+        bottom: -7px;
+    }
+    #dateBar .dateBarContent ul li {
+        margin: 0px 25px;
+    }
+    #membershipPlan .membershipPlanMainContainer .membershipPlanContainer {
+        padding: 20px 30px;
+    }
+    #myClassMain .myClassMainContainer .myClassMainItem {
+        padding-left: 20px;
+    }
+    #myClassMain .myClassMainContainer .myClassMainItem .myClassMainItemContent h5 {
+        font-size: 12px;
+    }
+    #myClassMain .myClassMainContainer .myClassMainItem .myClassMainItemContent h4 {
+        font-size: 22px;
+    }
+    #myClassMain .myClassMainContainer .myClassMainItem .myClassMainItemContent h3 {
+        font-size: 13px;
+    }
+    #myClassMain .myClassMainContainer .myClassMainItem .myClassMainItemImage a img {
+        height: 50px;
+    }
+    div#overviewBottomFixContent1 {
+        padding-left: 100px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+@media (max-width: 767px) {
+}
+
+/*-- Phone Landscape --*/
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    #enroldCourse .enroldCourseTitle h4 {
+        font-size: 14px;
+    }
+    #enroldCourse .enroldCourseTitle h4:before {
+        width: 31%;
+    }
+    #enroldCourse .enroldCourseTitle h4:after {
+        width: 31%;
+    }
+    #enroldCourse .enroldCourseMain .enroldCourseMainItem .top {
+        padding-left: 20px;
+    }
+    #enroldCourse .enroldCourseMain .enroldCourseMainItem .bottom {
+        padding-left: 20px;
+    }
+    #enroldCourse .enroldCourseMain .enroldCourseMainItem .bottom .bottom_right a {
+        margin-top: 20px;
+    }
+    #recomendCourses .recomendCoursesMain .recomendCoursesItem .top {
+        padding-left: 10px;
+    }
+    #recomendCourses .recomendCoursesMain .recomendCoursesItem .bottom {
+        padding-left: 10px;
+    }
+    #recomendCourses .recomendCoursesMain .recomendCoursesItem .bottom .bottom_left p {
+        font-size: 12px;
+        line-height: 20px;
+    }
+    #recomendCourses .recomendCoursesMain .recomendCoursesItem .bottom .bottom_left a {
+        width: auto;
+        padding: 10px 19px;
+        font-size: 11px;
+        color: #FFFFFF;
+        margin-right: 0px;
+        margin-bottom: 30px;
+    }
+    #recomendCourses .recomendCoursesMain .recomendCoursesItem .bottom .bottom_right {
+        margin-top: 0px;
+    }
+    #recomendCourses .recomendCoursesTitle h4 {
+        font-size: 14px;
+    }
+    #recomendCourses .recomendCoursesTitle h4:before {
+        width: 28%;
+    }
+    #recomendCourses .recomendCoursesTitle h4:after {
+        width: 28%;
+    }
+    #footer .footerContent h4 {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .hide_lan{
+        display: none !important;
+    }
+    #home3WhySchool .home3WhySchoolTitle h3 {
+        font-size: 14px;
+    }
+    #homeWelceom .homeWelceomContent p {
+        font-size: 18px;
+    }
+    #home3WhySchool .home3WhySchoolMain .home3WhySchoolMainItem video#home3Video[poster] {
+        height: 150px;
+        width: 100%;
+    }
+    #home3WhySchool .home3WhySchoolMain .home3WhySchoolMainItem video#home3Video {
+        margin-top: 0px;
+    }
+    #home3WhySchool .home3WhySchoolMain .home3WhySchoolMainItem .videoPlay img {
+        height: 50px;
+    }
+    #footer .footerContent a {
+        display: inline-block;
+        margin-top: 10px;
+        margin-right: 0px;
+    }
+    #assignUpload {
+        padding-bottom: 150px;
+    }
+    #assignmentPopup .assignmentPopupContainer #assignmentPopupClose {
+        right: 12px;
+    }
+    #assignmentPopup .assignmentPopupContainer .assignmentPopupContainerContentInput {
+        width: 510px;
+    }
+
+    #overViewMain .overViewMainTopContent {
+        margin-top: 26px;
+    }
+    #overViewMain .overViewMainTop .overViewMainTopVideo {
+        background: #43F9BC;
+    }
+    #overviewBottomFix .overviewBottomFixContent ul li {
+        margin-right: 10px;
+    }
+    #overviewBottomFix .overviewBottomFixContent ul li a {
+        background: #F7F9FA;
+        color: #607D8B;
+        border: 1px solid #707070;
+        font-family: fm;
+        font-size: 14px;
+        padding: 10px 40px;
+        border-radius: 30px;
+    }
+    #overviewBottomFix .overviewBottomFixContent ul li a.btn_sp {
+        font-size: 13px;
+    }
+    #header2 .header2Menu ul li {
+        margin: 0px 25px;
+    }
+    #dateBar .dateBarContent ul li {
+        margin: 0px 15px;
+    }
+    .bookClassMainItemContentBtn{
+        margin-top: -64px;
+    }
+    #bookClassMain .bookClassMainContainer .bookClassMainItem .bookClassMainItemContent .bookClassMainItemContentText h5 {
+        font-size: 11px;
+    }
+    #bookClassMain .bookClassMainContainer .bookClassMainItem .bookClassMainItemContent .bookClassMainItemContentText h4 {
+        font-size: 25px;
+        margin-top: 4px;
+    }
+    #bookClassMain .bookClassMainContainer .bookClassMainItem .bookClassMainItemContent .bookClassMainItemContentText ul {
+        margin-top: 20px;
+    }
+    #membershipPlan .membershipPlanMainContainer .membershipPlanContainer {
+        padding: 20px 20px;
+    }
+    #myClassMain .myClassMainContainer .myClassMainItem {
+        padding: 10px;
+        padding-left: 10px;
+    }
+    .myClassMainItem{
+        padding-bottom: 50px;
+    }
+    .myClassMainItemContent_right {
+        position: absolute;
+        bottom: -24px;
+        right: 0;
+    }
+    #myClassMain .myClassMainContainer .myClassMainItem .myClassMainItemContent h5 {
+        font-size: 11px;
+    }
+    #myClassMain .myClassMainContainer .myClassMainItem .myClassMainItemContent h4 {
+        font-size: 22px;
+        margin-top: 1px;
+    }
+    #myClassMain .myClassMainContainer .myClassMainItem .myClassMainItemContent p {
+        font-size: 11px;
+        margin-top: 3px;
+    }
+    #myClassMain .myClassMainContainer .myClassMainItem .myClassMainItemContent h3 {
+        font-size: 13px;
+        margin-top: 6px;
+    }
+    #myClassMain .myClassMainContainer .myClassMainItem .myClassMainItemImage video#myclassvideo[poster] {
+        height: 134px;
+        width: 100%;
+    }
+    #myClassMain .myClassMainContainer .myClassMainItem .myClassMainItemContent_right a.btn_sp {
+        background-color: #fff;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+/* Extra small Device. */
+@media (max-width: 575px) {
+    #sidebarMenu .sidebarMenuContainer {
+        width: 100%;
+    }
+    #homeWelceom {
+        padding-top: 81px;
+    }
+    #homeWelceom .homeWelceomContent p {
+        font-size: 16px;
+    }
+    #enroldCourse .enroldCourseTitle h4 {
+        font-size: 14px;
+    }
+    #enroldCourse .enroldCourseTitle h4:before {
+        width: 18%;
+    }
+    #enroldCourse .enroldCourseTitle h4:after {
+        width: 18%;
+    }
+    #enroldCourse .enroldCourseMain .enroldCourseMainItem .top {
+        padding-left: 20px;
+        padding-right: 20px;
+        border-radius: 0px !important;
+    }
+    #enroldCourse .enroldCourseMain .enroldCourseMainItem .bottom {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    #enroldCourse .bottom_left_Item {
+        margin-bottom: 13px;
+    }
+    #enroldCourse .enroldCourseMain .enroldCourseMainItem .bottom .bottom_right a {
+        display: block;
+        width: 100%;
+        margin-top: 15px;
+    }
+    .mpl0{
+        padding-left: 0px !important;
+    }
+    .mpr0{
+        padding-right: 0px !important;
+    }
+    #enroldCourse .enroldCourseMain .enroldCourseMainItem {
+        margin-bottom: 40px;
+    }
+    #recomendCourses .recomendCoursesTitle h4 {
+        font-size: 14px;
+    }
+    #recomendCourses .recomendCoursesTitle h4:before {
+        width: 13%;
+    }
+    #recomendCourses .recomendCoursesTitle h4:after {
+        width: 13%;
+    }
+    #recomendCourses .recomendCoursesMain .recomendCoursesItem .top {
+        padding-left: 20px;
+        border-radius: 0px !important;
+    }
+    #recomendCourses .recomendCoursesMain .recomendCoursesItem .bottom {
+        padding-left: 20px;
+        border-radius: 0px !important;
+    }
+    #recomendCourses .recomendCoursesMain .recomendCoursesItem .bottom .bottom_right img {
+        width: 120px;
+        border-radius: 50%;
+        margin: 0 auto;
+        display: table;
+        margin-top: 48px;
+    }
+    .show_mobile{
+        display: block !important;
+    }
+    .hide_mobile{
+        display: none !important;
+    }
+    #recomendCourses .recomendCoursesMain .recomendCoursesItem .bottom .bottom_left p {
+        font-size: 13px;
+        width: 87%;
+        margin: 0 auto;
+        margin-top: 13px;
+    }
+    #recomendCourses .recomendCoursesMain .recomendCoursesItem .bottom .bottom_left a {
+        display: block;
+        width: 80%;
+        margin: 0 auto;
+        margin-bottom: 22px;
+        margin-top: 22px;
+    }
+    #recomendCourses .recomendCoursesMain .recomendCoursesItem {
+        border-radius: 0px;
+    }
+    .footerImage img {
+        border-bottom: 2px solid #707070;
+    }
+    #footer .footerContent {
+        margin-top: 20px;
+        text-align: center;
+    }
+    #footer {
+        padding-bottom: 100px;
+    }
+    #footer:after {
+        height: 27%;
+    }
+    #footer .footerContent h4 {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    #recomendCourses{
+        overflow-x: hidden;
+    }
+    #footer .footerContent a {
+        display: block;
+        margin-top: 19px;
+        margin-right: 0px;
+    }
+    #sidebarMenu .sidebarMenuContainer .sidebarMenuContent {
+        padding-left: 30px;
+    }
+    #headerTop {
+        padding: 17px 0px 10px 0px;
+    }
+    .home3WhySchoolTitle {
+        text-align: center;
+    }
+    #home3WhySchool .home3WhySchoolMain .home3WhySchoolMainItem {
+        margin-bottom: 20px;
+    }
+    .acountProfile{
+        text-align: center;
+    }
+    #accountSettings form .acountProfile label {
+        right: 90px;
+    }
+    #accountSettings form .acountProfile label img{
+        height: 30px;
+    }
+    #accountSettings form .acountProfile #userImage {
+        height: 100px;
+        width: 100px;
+        border-radius: 50%;
+    }
+    #accountSettings form .accountInputMain .accountInputMainItem input {
+        font-size: 12px;
+    }
+    #accountSettings form .accountInputMain .accountInputMainItem label {
+        font-size: 8px;
+        margin-bottom: -3px;
+    }
+    #accountSettings form .accountInputMain .accountInputMainItem .updateInfo {
+        font-size: 8px;
+    }
+    #accountSettings form .accountInputMain .accountInputMainItem {
+        margin-bottom: 20px;
+    }
+    #CheckBoxSocil{
+        display: none;
+    }
+    #accountSettings .accountSettingsTop h4 {
+        font-family: fbook;
+        font-size: 14px;
+        color: #4D4D4D;
+    }
+    #accountSettings .accountSettingsTop p {
+        font-size: 12px;
+        margin-top: 20px;
+    }
+    #membershipPlan .membershipPlanTitle h4 {
+        font-size: 16px;
+    }
+    #membershipPlan .membershipPlanMainContainer {
+        margin-top: 40px;
+    }
+    #membershipPlan .membershipPlanMainContainer .membershipPlanContainer {
+        padding: 20px 20px;
+        box-shadow: 0px 1px 11px rgba(0,0,0,0.2);
+        border-radius: 0px;
+    }
+    #membershipPlan .membershipPlanMainContainer .membershipPlanContainer .membershipPlanItem .membershipPlanItemTop .membershipPlanItemTopInfo h4 {
+        font-size: 14px;
+    }
+    .membershipPlanItemTopBtn {
+        position: absolute;
+        top: 80px;
+        right: 20px;
+        z-index: 999999999;
+    }
+    #membershipPlan .membershipPlanMainContainer .membershipPlanContainer .membershipPlanItem .membershipPlanItemTop .membershipPlanItemTopBtn a {
+        padding: 12px 0px;
+        width: 144px;
+        font-size: 9px;
+    }
+    #membershipPlan .membershipPlanMainContainer .membershipPlanContainer .membershipPlanItem .membershipPlanItemTop .membershipPlanItemTopBtn .btn_sp {
+        padding: 12px 0px;
+        width: 144px;
+        font-size: 9px;
+    }
+    #membershipPlan .membershipPlanMainContainer .membershipPlanContainer .membershipPlanItem .membershipPlanItemContent .membershipPlanItemContentLeftItem p {
+        font-size: 8px;
+    }
+    #membershipPlan .membershipPlanMainContainer .membershipPlanContainer .membershipPlanItem .membershipPlanItemContent .membershipPlanItemContentLeftItem h4 {
+        font-size: 14px;
+        margin-top: 2px;
+    }
+    .membershipPlanItemContentRight {
+        margin-top: 30px;
+    }
+    .membershipPlanItemContentLeftImage img {
+        height: 90px;
+    }
+    #assignUpload .assignUploadPreview .previewUploadImage .previewUploadImageBtn a {
+        display: inline-block;
+        margin: 0px 2px;
+        margin-bottom: 11px;
+        width: auto;
+        padding: 10px 0px;
+        width: 137px;
+    }
+    #assignuploadBtn {
+        /* position: relative; */
+        background: transparent;
+    }
+    #assignuploadBtn {
+        box-shadow: none;
+    }
+    #workShopHeader .workShopHeaderBack a img {
+        height: 13px;
+    }
+    #workShopHeader .workShopHeaderMenu a {
+        font-size: 10px;
+    }
+    .workShopHeaderMenu.text-center {
+        text-align: left !important;
+    }
+    .workShopHeaderMenu.text-right {
+        text-align: left !important;
+    }
+    #assignmentMain {
+        margin-top: 0px;
+        padding-top: 20px;
+    }
+    .assignmentMainitem a img{
+        width: 100%;
+    }
+    #assignuploadBtn .assignuploadBtnContent a {
+        display: block;
+        font-size: 11px;
+        padding: 11px 0px;
+        width: 90%;
+        margin: 0 auto;
+    }
+    #assignmentMain .assignmentMainitem ul {
+        padding-left: 20px;
+    }
+    #assignmentPopup {
+        background: #fff;
+        z-index: 999999999999999999;
+        padding-top: 0px;
+    }
+    #assignmentPopup::-webkit-scrollbar {
+        display: none;
+    }
+    .assignmentPopupContainerMobileTop{
+        padding: 15px 20px;
+        background: #fff;
+        position: relative;
+    }
+    .assignmentPopupContainerMobileTop h5{
+        font-family: fm;
+        font-size: 13px;
+        color: #707070;
+    }
+    .assignmentPopupContainerMobileTop h5 span{
+        color: #C7C7C7;
+    }
+    #assignmentPopupClose{
+        display: none;
+    }
+    #assignmentPopupCloseMobile{
+        position: absolute;
+        top: 50%;
+        right: 15px;
+        transform: translateY(-50%);
+        font-size: 20px;
+    }
+    .assignmentPopupContainerMobileTopInfo{
+        padding: 15px 0px 15px 30px;
+        background: #F7F9FA;
+    }
+    .assignmentPopupContainerMobileTopInfo p{
+        font-family: fm;
+        font-size: 7px;
+        color: #EE3F5A;
+    }
+    .assignmentPopupContainerMobileTopInfo h4{
+        font-family: fm;
+        font-size: 15px;
+        color: #4D4D4D;
+        margin-top: 4px;
+    }
+    #assignmentPopup .assignmentPopupContainer .assignmentPopupContainerContent .assignmentPopupContainerContentItem h4 {
+        font-size: 11px;
+        margin-top: 3px;
+        line-height: 19px;
+    }
+    #assignmentPopup .assignmentPopupContainer .assignmentPopupContainerContent .assignmentPopupContainerContentItem {
+        margin-bottom: 30px;
+    }
+    #assignmentPopup .assignmentPopupContainer .assignmentPopupContainerContentInput {
+        width: 100%;
+    }
+    #assignUpload{
+        padding-bottom: 200px;
+    }
+    #overViewMain {
+        padding: 0px;
+        background: #fff;
+        padding-bottom: 100px;
+        overflow-x: hidden;
+    }
+    .overViewMainTopVideo{
+        background: #43F9BC;
+    }
+    #overViewMain .overViewMainTop .overViewMainTopVideo video#overview3Video[poster] {
+        height: 100%;
+    }
+    #overViewMain .overViewMainTop .overViewMainTopVideo video#overview3Video {
+        border-radius: 0px;
+    }
+    .mpl30{
+        padding-left: 30px;
+    }
+    #overViewMain .overViewMainTop .overViewMainTopContent .overViewMainTopContentBottom .overViewMainTopContentBottomItem h5 {
+        font-size: 11px;
+        margin-top: 4px;
+    }
+    #overViewMain .overViewMainContent .overViewMainContentItem h6 {
+        font-size: 14px;
+    }
+    #overViewMain .overViewMainContent .overViewMainContentItem span {
+        height: 5px;
+        width: 30px;
+    }
+    #overViewMain .overViewMainContent .overViewMainContentItem p {
+        font-size: 12px;
+        width: 90%;
+    }
+
+
+    .overViewMainContentItemSliderMobile .owl-stage{
+        padding-left: 10px !important;
+    }
+
+    .overViewMainContentItemSliderMobile .owl-dots{
+        text-align: center;
+        margin-top: 10px;
+    }
+    .overViewMainContentItemSliderMobile .owl-dot{
+        height: 10px;
+        width: 10px;
+        display: inline-block;
+        background: #91919138;
+        border-radius: 50%;
+        margin: 0px 10px;
+    }
+    .overViewMainContentItemSliderMobile .owl-dot.active{
+        background: #707070;
+    }
+    .overViewMainContentItemMobile2Item{
+        margin-top: 20px;
+        padding: 24px 20px;
+        background: #FFF7F7;
+        border: 1px solid #FFE9E9;
+        border-radius: 10px;
+    }
+
+    .overViewMainContentItemMobile2Item h4{
+        font-family: fm;
+        font-size: 13px;
+        color: #EE3F5A;
+    }
+
+    .overViewMainContentItemMobile2Item p{
+        font-family: flight;
+        font-size: 12px;
+        color: #4D4D4D;
+    }
+    .overViewMainContentItemMobile2 .owl-stage{
+        padding-left: 10px !important;
+    }
+
+    .overViewMainContentItemMobile2 .owl-dots{
+        text-align: center;
+        margin-top: 10px;
+    }
+    .overViewMainContentItemMobile2 .owl-dot{
+        height: 10px;
+        width: 10px;
+        display: inline-block;
+        background: #91919138;
+        border-radius: 50%;
+        margin: 0px 10px;
+    }
+    .overViewMainContentItemMobile2 .owl-dot.active{
+        background: #707070;
+    }
+    #overViewMain .overViewMainContent .overViewMainContentItem a.btn_sp {
+        color: #fff;
+        font-size: 10px;
+        padding: 10px 30px;
+        border-radius: 7px;
+        background: #FF3A58;
+    }
+    #overviewBottomFix {
+        padding: 20px 0px;
+        z-index: 99999999999999999999;
+        padding-left: 20px;
+    }
+    #overviewBottomFix .overviewBottomFixContent ul li a {
+        padding: 7px 17px;
+    }
+    #overviewBottomFix .overviewBottomFixContent ul li {
+        margin-right: 0px;
+    }
+    #overviewBottomFix .overviewBottomFixContent ul li a.btn_sp {
+        padding: 7px 20px;
+        font-size: 11px;
+    }
+    #overviewBottomFix #overviewBottomFixContent2 {
+        margin-left: -20px;
+        margin-top: 0px;
+    }
+    #overviewBottomFix {
+        height: auto;
+    }
+    #mobileHeaderStyle2 .mobileHeaderStyle2Menu {
+        overflow-x: scroll;
+        position: relative;
+        top: 8px;
+    }
+    #mobileHeaderStyle2 .mobileHeaderStyle2Menu ul .active a:after {
+        bottom: 0px;
+    }
+    section#mobileHeaderStyle2 .toggleSidebar {
+        position: relative;
+        top: 7px;
+        cursor: pointer;
+    }
+    #dateBar .dateBarContent ul li {
+        display: inline-block;
+        margin: 0px 8px;
+    }
+    #dateBar .dateBarContent ul li a span {
+        font-size: 7px;
+    }
+    #dateBar .dateBarContent ul li a h5 {
+        height: 20px;
+        width: 20px;
+        line-height: 20px;
+        font-size: 10px;
+        transition: 0.4s;
+    }
+    #dateBar {
+        background: #F7F9FA;
+        padding: 11px 0px;
+    }
+    #bookClassMain .bookClassMainContainer .bookClassMainItem .bookClassMainItemContent .bookClassMainItemContentText h5 {
+        font-size: 6px;
+    }
+    #bookClassMain .bookClassMainContainer .bookClassMainItem .bookClassMainItemContent .bookClassMainItemContentText h4 {
+        font-size: 18px;
+        margin-top: 4px;
+    }
+    #bookClassMain .bookClassMainContainer .bookClassMainItem .bookClassMainItemContent .bookClassMainItemContentText ul li {
+        font-size: 8px;
+        margin-right: 2px;
+    }
+    #bookClassMain .bookClassMainContainer .bookClassMainItem .bookClassMainItemContent .bookClassMainItemContentText ul li a {
+        display: inline-block;
+        background: #F7F9FA;
+        border: 0.5px solid #607D8B;
+        color: #607D8B;
+        font-family: fm;
+        font-size: 9px;
+        padding: 3px 10px;
+        border-radius: 30px;
+    }
+    .bookClassMainItemContentText {
+        margin-left: -19px;
+    }
+    #bookClassMain .bookClassMainContainer .bookClassMainItem .bookClassMainItemContent .bookClassMainItemContentText ul {
+        margin-top: 9px;
+    }
+    .bookClassMainItemContent{
+        position: relative;
+    }
+    .bookClassMainItemContentBtnMobile{
+        position: absolute;
+        right: 10px;
+        bottom: 0;
+        z-index: 99999;
+    }
+    #dateBar.fix {
+        z-index: 99999999999999999999999999;
+    }
+    #myClassMain {
+        padding: 30px 0px 50px 0px;
+        background: #fff;
+        overflow: hidden;
+    }
+    #myClassMain .myClassMainItemTitle h4 {
+        font-size: 10px;
+    }
+    #myClassMain .myClassMainContainer .myClassMainItem {
+        padding: 10px;
+        padding-left: 10px;
+        border-radius: 0px;
+    }
+    #myClassMain .myClassMainContainer .myClassMainItem .myClassMainItemContent h5 {
+        font-size: 6px;
+    }
+    #myClassMain .myClassMainContainer .myClassMainItem .myClassMainItemContent h4 {
+        font-size: 18px;
+        margin-top: 2px;
+    }
+    #myClassMain .myClassMainContainer .myClassMainItem .myClassMainItemContent p {
+        font-size: 10px;
+        margin-top: 4px;
+    }
+    #myClassItemMobileList{
+        margin-top: 10px;
+    }
+
+    #myClassItemMobileList li{
+        display: inline-block;
+    }
+    #myClassItemMobileList li a{
+        width: 50px;
+        display: block;
+        height: 22px;
+        line-height: 22px;
+        background: #F7F9FA;
+        border: 1px solid #607D8B;
+        font-family: fm;
+        font-size: 8px;
+        color: #607D8B;
+        text-align: center;
+        border-radius: 30px;
+    }
+    #myClassItemMobileList li.active a{
+        background: #BEFFDA;
+        border-color: #02C972;
+        color: #02C972;
+    }
+    #myClassMain .myClassMainContainer .myClassMainItem .myClassMainItemImage a img {
+        height: 34px;
+    }
+    #myClassMain.pastClasses {
+        padding-bottom: 100px;
+        padding-top: 0px;
+        overflow-x: hidden;
+    }
+    #myClassMain .myClassMainContainer .myClassMainItem .myClassMainItemImage video#myclassvideo[poster] {
+        height: 93px;
+        width: 112px;
+    }
+    #myClassMain .myClassMainContainer .myClassMainItem .myClassMainItemImage .videoPlayMyclass img {
+        height: 33px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
